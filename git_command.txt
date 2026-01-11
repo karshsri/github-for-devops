@@ -1,0 +1,75 @@
+git --version
+    3  ls
+    4  ls -l
+    5  rm testing.py
+    6  python testing.py
+    7  ls
+    8  git init
+    9  ls -a
+   10  git status
+   11  ls
+   12  git status
+   13    f
+   14  clear
+   15  git status
+   16  git add testing.py
+   17  git status
+   18  git rm --cached
+   19  git rm --cached testing.py
+   20  git status
+   21  git add testing.py
+   22  git add .
+   23  git status
+   24  clear
+   25  git commit -m "added testing file
+
+
+   26  git commit -m "added testing file"
+   27  git status
+   28  rm testing.py
+   29  ls
+   30  clear
+   31  git status
+   32  git restore testing.py
+   33  ls
+   34  python testing.py
+   35  python testing.py
+   36  run testing.py
+   37  python testing.py
+   38  clear
+   39  ls
+   40  git status
+   41  git add.
+   42  git add .
+   43  ls
+   44  git status
+   45  git commit -m " added testing file"
+   46  git status
+   47  ls
+   48  rm testing.py
+   49  git staus
+   50  git status
+   51  git restore testing.py
+   52  git status
+   53  python testing.py
+   54  git history
+   55  history
+sh MINGW64 /d/github-for-devops (master)
+$ history
+    1  mkdir -p ai data-platform/{backedn/{model,services, utils}, frontend/src/components,data,notebooks}
+    2  git --version
+    3  ls
+    4  pyhton testing.py
+    5  run pyhton testing.py
+    6  python testing.py
+    7  clear
+    8  ls
+    9  ls -l
+   10  stsus
+   11  staus
+   12  status
+   13  git status
+   14  history
+   15  clear
+   16  git push origin master
+   17  history
